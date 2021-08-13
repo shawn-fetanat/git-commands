@@ -68,13 +68,13 @@ Switch (or checkout) to master branch
 
 ```bash
 # switch to master (this is an extra step to try and keep things in an easier place to roll back from )
-git checkout master
+git checkout master (or main)
 ```
 Get the last master code down to your machine
 
 ```bash
 # this will `fetch` and `merge` your master with the remote paster
-git pull origin master
+git pull origin master (or main)
 ```
 
 You should not have any messages that indicated a merge at this point. If so, speak with an instructor until you know how to handle these situations. Next we switch back to our branch
@@ -86,7 +86,7 @@ git checkout MY-BRANCH-NAME
 
 ```bash
 # merge the local master branch into my own
-git merge master
+git merge master (or main)
 ```
 
 At this point you may find yourself in a merge situation. 
