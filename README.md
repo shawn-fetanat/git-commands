@@ -1,9 +1,9 @@
 # git-commands
 
-## Go through the following steps to review code with a teammate and commit
-## your changes as well as push your code to the (remote) master branch and
-## lastly submitting your pull request in order to push your local master branch
-## to the remote master branch upon approval.
+Go through the following steps to review code with a teammate and commit
+your changes as well as push your code to the (remote) master branch and
+lastly submitting your pull request in order to push your local master branch
+to the remote master branch upon approval.
 
 Code reviewing a developer's code can take on many forms.
 
