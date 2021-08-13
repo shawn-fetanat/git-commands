@@ -149,4 +149,4 @@ git push origin HEAD
 
 ## Pull Request
 
-It is not time to submit a pull request or PR
+It is now time to submit a pull request or PR
